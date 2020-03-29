@@ -2,7 +2,6 @@ This repository is copied from `https://chromium.googlesource.com/libyuv/libyuv`
 Because of the Great Wall we cannot directly download this repo from the original source.
 And I even failed with using VPNs. With a friend's help who is now abroad I finally made it.
 Wish this repo will help you.
-------------------------------------------------------------
 
 **libyuv** is an open source project that includes YUV scaling and conversion functionality.
 
